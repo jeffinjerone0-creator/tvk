@@ -1,0 +1,38 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports Main Event UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5259.ts
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports Football UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5258.ts
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports Cricket UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5265.ts
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports F1 UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5270.ts
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports Bundesliga UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/26156.ts
+
+#EXTINF:-1 group-title="Sports 4K",TNT Sports Ultimate UHD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5253.ts
+
+#EXTINF:-1 group-title="Sports 4K",Sky Sports 1 NZ 4K
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/24817.ts
+
+#EXTINF:-1 group-title="Sports HD",Sky Sports 1 NZ
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/2397.ts
+
+#EXTINF:-1 group-title="Sports HD",TNT Sports 1 HD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5249.ts
+
+#EXTINF:-1 group-title="Sports HD",TNT Sports 2 HD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5250.ts
+
+#EXTINF:-1 group-title="Sports HD",TNT Sports 3 HD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5251.ts
+
+#EXTINF:-1 group-title="Sports HD",TNT Sports 4 HD
+http://85.137.55.250/live/epd_72b42767533eecbd35e8570c097c82a9/4b76c59e8a76c9419ac9abd200a6d271e67df2fd610efa0f/5252.ts
